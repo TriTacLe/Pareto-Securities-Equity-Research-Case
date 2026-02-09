@@ -1,0 +1,1 @@
+# Pareto-Securities-Equity-Research-Case
