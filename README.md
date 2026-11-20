@@ -20,7 +20,8 @@ The task was a full equity analysis of **Bouvet ASA** (Oslo Børs: BOUV), a Norw
 
 | File | What it is |
 | --- | --- |
-| `Pareto Securities Equity research case.pptx` | The four case slides (company, market, financials, valuation) in the official template |
+| `Pareto Securities Equity research case.pdf` | The presentation as PDF, for reading without PowerPoint |
+| `Pareto Securities Equity research case.pptx` | The four case slides (company, market, financials, valuation) in the official template, with native editable charts |
 | `bouvet-case-2026.xlsx` | The financial model: driver-based forecast, DCF, multiples, sensitivities and integrity checks |
 | `report/bouvet-research-report.pdf` | Six-page research report written in LaTeX (source in `report/`) |
 | `case-information.pdf` | The case brief from Pareto Securities |
